@@ -7,7 +7,7 @@ Result of the following tutorial
 
 # Pre requirements
 
-1. Unity 2018.2+
+1. Unity 2018.2+ (verified to work on 2018.2.8f1)
 
 # How to Play
 
